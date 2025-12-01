@@ -38,33 +38,6 @@ Di luar dunia programming, saya juga suka bermain game dan mengeksplor proyek te
 
 </div>
 
----
-
-# 📌 Project Highlights
-Beberapa project yang sudah saya kerjakan — lengkap dengan link repository GitHub:
-
-### 🔹 **Manhwa Reader Web App**
-Aplikasi web reader modern lengkap dengan auto-fetch chapter, Supabase backend, API Gratis dan UI responsif.  
-👉 Repo: https://github.com/DhaniAAA/manhwaku
-
-### 🔹 **Sentiment Analysis TikTok Food Content**
-Analisis sentimen komentar Media sosial menggunakan Multinomial Naive Bayes + CountVectorizer.  
-👉 Repo: https://github.com/DhaniAAA/ML-Python
-
-### 🔹 **Scraper Tweet Qt 5**
-Jika kalian butuh tools untuk scrape bisa gunakan aplikasi saya ini.
-👉 Repo: https://github.com/DhaniAAA/Scrapping-Qt5-Tweet
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhaniAAA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Ramadhani's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhaniAAA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</div>
-
----
-
 ## 🔗 Connect with me
 <div align="center">
 
