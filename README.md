@@ -17,6 +17,6 @@ Saya [Pekerjaan/Status] yang suka memecahkan masalah dengan kode. Selain coding,
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](Link LinkedIn Kamu)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][(Link IG Kamu)](https://www.instagram.com/ramadhanigb1997/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />(https://www.instagram.com/ramadhanigb1997/)
 
 ![Snake animation](https://github.com/username-kamu/username-kamu/blob/output/github-contribution-grid-snake.svg)
