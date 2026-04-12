@@ -14,7 +14,7 @@ Developer yang fokus membangun aplikasi web modern dan sistem data automation. S
 - 🔭 Currently developing **[ManhwaKu](https://manhwaku.biz.id)** — platform baca manhwa berbasis Next.js
 - 🧠 Deepening skills in **NLP & sentiment analysis** (Naive Bayes, scikit-learn)
 - 📫 Contact: **Ramadhanigb19@gmail.com**
-- 🌐 Website: **[dhaniaaa.my.id](https://dhaniaaa.my.id)**
+- 🌐 Website: **[dhaniaaa.my.id](https://www.dhaniaaa.my.id/)**
 
 ---
 
