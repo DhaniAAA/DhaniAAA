@@ -11,10 +11,10 @@
 Developer yang fokus membangun aplikasi web modern dan sistem data automation. Saya senang mengerjakan project dari nol sampai live — mulai dari scraping data, NLP, sampai full web platform.
 
 - 🌍 Based in **Tangerang, Indonesia**
-- 🔭 Currently developing **[ManhwaKu](https://manhwaku.biz.id)** — platform baca manhwa berbasis Next.js
+- 🔭 Currently developing **[Yeekin](https://yeekin.site)** — platform Downloader Foto/Video media sosial.
 - 🧠 Deepening skills in **NLP & sentiment analysis** (Naive Bayes, scikit-learn)
 - 📫 Contact: **Ramadhanigb19@gmail.com**
-- 🌐 Website: **[dhaniaaa.my.id](https://www.dhaniaa.my.id/)**
+- 🌐 Website: **[dhaniaa.my.id](https://www.dhaniaa.my.id/)**
 
 ---
 
