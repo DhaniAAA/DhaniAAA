@@ -8,10 +8,10 @@
 
 ### 🧑‍💻 About Me
 
-Developer yang fokus membangun aplikasi web modern dan sistem data automation. Saya senang mengerjakan project dari nol sampai live — mulai dari scraping data, NLP, sampai full web platform.
+Developer with a focus on modern web applications and data automation. I enjoy taking projects from idea to deployment, spanning web scraping, NLP, and full-stack platforms
 
 - 🌍 Based in **Tangerang, Indonesia**
-- 🔭 Currently developing **[Yeekin](https://yeekin.site)** — platform Downloader Foto/Video media sosial.
+- 🔭 Currently developing **[Yeekin](https://yeekin.site)** — Social Media Photo/Video Downloader Platform.
 - 🧠 Deepening skills in **NLP & sentiment analysis** (Naive Bayes, scikit-learn)
 - 📫 Contact: **Ramadhanigb19@gmail.com**
 - 🌐 Website: **[dhaniaa.my.id](https://www.dhaniaa.my.id/)**
@@ -22,10 +22,10 @@ Developer yang fokus membangun aplikasi web modern dan sistem data automation. S
 
 | Project | Deskripsi | Tech Stack | Link |
 |---|---|---|---|
-| **ManhwaKu** | Platform baca manhwa online dengan dark UI, pencarian, dan riwayat bacaan | Next.js · TypeScript · Tailwind CSS | [Live](https://manhwaku.biz.id) |
-| **Sentiment Analysis** | Sistem analisis sentimen teks bahasa Indonesia berbasis web dengan NLP end-to-end | PHP · Python · Naive Bayes · scikit-learn | [Repo](https://github.com/DhaniAAA/Sentiment_Analisis-ML-Python) |
-| **Tweet Scraper** | Aplikasi desktop scraping data Twitter dengan GUI dan export multi-format | Python · Selenium · PyQt5 · SQLite | [Repo](https://github.com/DhaniAAA/Scrapping-Qt5-Tweet) |
-| **Panen-Tweet** | Aplikasi dengan format CLI yang mudah digunakan dan mudah di install | Python · Selenium | [Repo](https://github.com/DhaniAAA/panen-tweet) |
+| **ManhwaKu** | An online manhwa reading platform with a dark UI, search function, and reading history | Next.js · TypeScript · Tailwind CSS | [Live](https://manhwaku-tau.vercel.app/) |
+| **Sentiment Analysis** | A Web-Based Indonesian Text Sentiment Analysis System Using End-to-End NLP | PHP · Python · Naive Bayes · scikit-learn | [Repo](https://github.com/DhaniAAA/Sentiment_Analisis-ML-Python) |
+| **Tweet Scraper** | A desktop application for scraping Twitter data with a GUI and multi-format export capabilities | Python · Selenium · PyQt5 · SQLite | [Repo](https://github.com/DhaniAAA/Scrapping-Qt5-Tweet) |
+| **Panen-Tweet** | An application with a user-friendly CLI interface that is easy to install | Python · Selenium | [Repo](https://github.com/DhaniAAA/panen-tweet) |
 
 ---
 
