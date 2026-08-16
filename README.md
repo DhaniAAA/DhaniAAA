@@ -22,7 +22,7 @@ Developer with a focus on modern web applications and data automation. I enjoy t
 
 | Project | Deskripsi | Tech Stack | Link |
 |---|---|---|---|
-| **ManhwaKu** | An online manhwa reading platform with a dark UI, search function, and reading history | Next.js · TypeScript · Tailwind CSS | [Live](https://manhwaku-tau.vercel.app/) |
+| **Toonara** | An online manhwa reading platform with a dark UI, search function, and reading history | Next.js · TypeScript · Tailwind CSS | [Live](https://manhwaku-tau.vercel.app/) |
 | **Sentiment Analysis** | A Web-Based Indonesian Text Sentiment Analysis System Using End-to-End NLP | PHP · Python · Naive Bayes · scikit-learn | [Repo](https://github.com/DhaniAAA/Sentiment_Analisis-ML-Python) |
 | **Tweet Scraper** | A desktop application for scraping Twitter data with a GUI and multi-format export capabilities | Python · Selenium · PyQt5 · SQLite | [Repo](https://github.com/DhaniAAA/Scrapping-Qt5-Tweet) |
 | **Panen-Tweet** | An application with a user-friendly CLI interface that is easy to install | Python · Selenium | [Repo](https://github.com/DhaniAAA/panen-tweet) |
